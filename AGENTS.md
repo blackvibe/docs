@@ -2,7 +2,7 @@
 
 ## About this project
 
-- This is documentation for Harvi - a fork of roo-cline
+- This is documentation for Harvi Code - an independent AI coding assistant
 - Documentation site built on [Mintlify](https://mintlify.com)
 - Pages are MDX files with YAML frontmatter
 - Configuration lives in `docs.json`
@@ -11,8 +11,7 @@
 
 ## Terminology
 
-- Use "Harvi" when referring to this fork
-- Original project: "roo-cline"
+- Use "Harvi Code" when referring to the product
 - Use "workspace" not "project"
 - Use "agent" for AI assistant references
 
