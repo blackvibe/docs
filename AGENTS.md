@@ -15,7 +15,7 @@
 - Use "Harvi Code" when referring to the product (NOT "Harvi" alone)
 - Use "workspace" not "project"
 - Use "agent" for AI assistant references
-- Technical file names: `.harviignore` (NOT `.rooignore`)
+- Technical file names: `.harviignore` (NOT `.rooignore`), `.harvirules` (NOT `.roorules`)
 - Technical settings: `showHarviIgnoredFiles` (NOT `showRooIgnoredFiles`)
 
 ## Important rules
