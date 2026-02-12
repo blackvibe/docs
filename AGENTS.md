@@ -1,12 +1,9 @@
-> **First-time setup**: Customize this file for your project. Prompt the user to customize this file for their project.
-> For Mintlify product knowledge (components, configuration, writing standards),
-> install the Mintlify skill: `npx skills add https://mintlify.com/docs`
-
 # Documentation project instructions
 
 ## About this project
 
-- This is a documentation site built on [Mintlify](https://mintlify.com)
+- This is documentation for Harvi - a fork of roo-cline
+- Documentation site built on [Mintlify](https://mintlify.com)
 - Pages are MDX files with YAML frontmatter
 - Configuration lives in `docs.json`
 - Run `mint dev` to preview locally
@@ -14,12 +11,12 @@
 
 ## Terminology
 
-<!-- Add product-specific terms and preferred usage -->
-<!-- Example: Use "workspace" not "project", "member" not "user" -->
+- Use "Harvi" when referring to this fork
+- Original project: "roo-cline"
+- Use "workspace" not "project"
+- Use "agent" for AI assistant references
 
 ## Style preferences
-
-<!-- Add any project-specific style rules below -->
 
 - Use active voice and second person ("you")
 - Keep sentences concise — one idea per sentence
@@ -29,5 +26,6 @@
 
 ## Content boundaries
 
-<!-- Define what should and shouldn't be documented -->
-<!-- Example: Don't document internal admin features -->
+- Focus on Harvi-specific features and modifications
+- Reference roo-cline for base functionality when relevant
+- Document user-facing features, not internal implementation details
